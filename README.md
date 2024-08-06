@@ -27,3 +27,4 @@ OSI SAF sea ice type: https://doi.org/10.24381/CDS.29C46D83
 
 The notebooks used to produce the paper's main and supplementary figures can be found in /main_figs and /supp_figs respectively, and are named according to figure number.
 
+[![DOI](https://zenodo.org/badge/751807923.svg)](https://zenodo.org/doi/10.5281/zenodo.13235154)
