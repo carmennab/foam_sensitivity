@@ -21,6 +21,8 @@ Operation IceBridge: https://doi.org/10.5067/GRIXZ91DE0L9
 
 Beaufort Gyre Exploration Project: https://www2.whoi.edu/site/beaufortgyre/data/mooring-data/
 
+OSI SAF sea ice type: https://doi.org/10.24381/CDS.29C46D83
+
 ## Notebooks
 
 The notebooks used to produce the paper's main and supplementary figures can be found in /main_figs and /supp_figs respectively, and are named according to figure number.
