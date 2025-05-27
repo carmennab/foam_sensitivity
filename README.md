@@ -1,6 +1,6 @@
 ### Code and data repository for:
 
-### "Sensitivity of winter forecasts to sea ice thickness parameters in a coupled ice-ocean data assimilation system" - Nab et al. (2024)
+### "Sensitivity to sea ice thickness parameters in a coupled ice‐ocean data assimilation system" - Nab et al. (2025)
 
 ## Data
 The data used in this publication can be found at:
