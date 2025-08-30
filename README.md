@@ -1,6 +1,6 @@
 ### Code and data repository for:
 
-### "Sensitivity to sea ice thickness parameters in a coupled ice‐ocean data assimilation system" - Nab et al. (2025)
+### "Sensitivity to sea ice thickness parameters in a coupled ice‐ocean data assimilation system" - Nab et al. (2025), Journal of Advances in Modeling Earth Systems (JAMES)
 
 ## Data
 The data used in this publication can be found at:
